@@ -1,4 +1,8 @@
 1.  Explain the differences between `client-side routing` and `server-side routing`.
+
+Client Side loads everything on the initial load, then routes to resources that had already been loaded.
+Server Side sends a request to the server for every page being loaded. Quicker initial load, but slower after that.
+
 1.  What does HTTP stand for?
 
 Hypertext Transfer Protocol
